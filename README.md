@@ -1,4 +1,4 @@
-<h1 align="center"> Hola a todos 👋 Soy Tomás Andrés, </h2>
+<h1 align="center"> Hola a todos 👋 Soy Tomás Andrés </h2>
 
 Soy un Web Developer apasionado de las tecnolgias que surgen día a día :bar_chart:. Me gusta la creatividad y la optimización de los procesos y soluciones que desarrollo🙌.
 
