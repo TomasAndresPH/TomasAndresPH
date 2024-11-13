@@ -3,7 +3,7 @@
 Soy un Web Developer apasionado de las tecnolgias que surgen día a día :bar_chart:. Me gusta la creatividad y la optimización de los procesos y soluciones que desarrollo🙌.
 
 
-- ⚡ **Dato sobre mí:** Tengo mis días y días, te odio front development, pero aún así no me puedo quedarme sin tí❤️‍🩹
+- ⚡ **Dato sobre mí:** Tengo mis días y días, te odio front development, pero aún así no puedo quedarme sin tí❤️‍🩹
 - 🔭 Actualmente estoy trabajando en:
 	- Un proyecto de Ecommerce💻
 	- Mi proyecto de título "Open S4M", el cual consiste en un Repositorio Institucional Inteligente🚨
