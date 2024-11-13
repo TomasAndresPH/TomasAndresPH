@@ -7,7 +7,7 @@ Soy un Web Developer apasionado de las tecnolgias que surgen día a día :bar_ch
 - 🔭 Actualmente estoy trabajando en:
 	- Un proyecto de Ecommerce💻
 	- Mi proyecto de título "Open S4M", el cual consiste en un Repositorio Institucional Inteligente🚨
-- :bulb: Estoy interesado en todo tipo de áreas: **Web development💻, Data Science🧮, Machine Learning🤖, Big Data⚙️, Cloud Computing☁️**
+- :bulb: Estoy interesado en todo tipo de áreas: **Web Development💻, Data Science🧮, Machine Learning🤖, Big Data⚙️, Cloud Computing☁️**
 - 🌱 Actualmente estoy siguiendo el camino del **Cloud Computing☁️**
 
 <h2 align="center"> Mis bases de constituyen de: </h2>
