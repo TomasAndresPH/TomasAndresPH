@@ -23,10 +23,10 @@ Soy un Web Developer apasionado de las tecnolgias que surgen día a día :bar_ch
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThomKhas&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby&line_height=40&locale=es" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TomasAndresPH&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby&line_height=40&locale=es" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomKhas&theme=great-gatsby&line_height=40&hide=css&locale=es"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasAndresPH&theme=great-gatsby&line_height=40&hide=css&locale=es"/>
     </a>
   </div>
 
