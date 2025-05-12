@@ -5,8 +5,8 @@ Soy un Web Developer apasionado de las tecnolgias que surgen día a día :bar_ch
 
 - ⚡ **Dato sobre mí:** Tengo mis días y días, te odio front development, pero aún así no puedo quedarme sin tí❤️‍🩹
 - 🔭 Actualmente estoy trabajando en:
-	- Un proyecto de Ecommerce💻
-	- Mi proyecto de título "Open S4M", el cual consiste en un Repositorio Institucional Inteligente🚨
+	- Un proyecto de Ecommerce(SimpleIdeasCL)💻
+	- Realizando mi  Práctica Profesional, en un proyecto de automatización🚨
 - :bulb: Estoy interesado en todo tipo de áreas: **Web Development💻, Data Science🧮, Machine Learning🤖, Big Data⚙️, Cloud Computing☁️**
 - 🌱 Actualmente estoy siguiendo el camino del **Cloud Computing☁️**
 
